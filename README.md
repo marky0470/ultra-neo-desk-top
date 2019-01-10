@@ -25,7 +25,7 @@ editor.token.literal2.style=#edadad,plain
 editor.token.operator.style=#F0EFD0,plain
 ```
 
-And copy and replace all lines in ```[[your Processing folder]/lib/theme.txt``` below ```# foreground and background colors``` with this:
+And copy and replace all lines in ```[your Processing folder]/lib/theme.txt``` below ```# foreground and background colors``` with this:
 ```
 editor.fgcolor = #F6F3E8
 editor.bgcolor = #404040
